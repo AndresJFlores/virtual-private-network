@@ -15,7 +15,7 @@
 <p>This is the public IP address of the system.</p>
 
 ![Screenshot 2025-03-12 162045](https://github.com/user-attachments/assets/8f321128-6008-4e7a-94f8-4c673fcc4b3c)
-<p>Here i am using a website that shows the IP address and location of my system before connecting to the VPN</p>
+<p>Here i am using a website that shows the IP address and location of the system before connecting to the VPN</p>
 
 ![Screenshot 2025-03-12 165551](https://github.com/user-attachments/assets/464494f9-5eab-4fe4-98f1-759ac092ab5d)
 <p>Here i am connecting to the VPN and refreshing the page to reveal the new IP address</p>
